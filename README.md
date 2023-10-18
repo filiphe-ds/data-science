@@ -1,4 +1,6 @@
-<h1 align="center">Repositório Dedidacado ao meu Portifólio em Ciência de Dados</h1>
+<h1 align="center">Portfólio em Ciência de Dados</h1>
+<br>
+<h3 align="center">Repositório Dedicado aos meus trabalhos como Cientista de Dados</h3>
 <br>
 
 ### Projetos Finalizados:
